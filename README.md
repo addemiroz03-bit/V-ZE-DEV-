@@ -14,6 +14,7 @@ Türk Masalları, Türk kültürüne ait masalları okuyucularla buluşturmak am
 1. `index.html` dosyasını bilgisayarınıza indirin.
 2. Dosyayı Google Chrome veya başka bir internet tarayıcısında açın.
 3. Web sitesini kullanmaya başlayın.
+4.Tanıtım Youtube Videosu Linki:  https://youtu.be/8_NbkNCU-p4
 
 ## Kullanılan Teknolojiler
 - HTML
